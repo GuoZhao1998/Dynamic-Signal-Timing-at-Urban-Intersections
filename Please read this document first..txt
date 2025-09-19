@@ -1,0 +1,20 @@
+This document explains the meaning of each uploaded file.
+
+
+*   **P2-Model comparison.py**: This script compares the total delay situations of four models (Webster model, ROSCA weighting method, new model, Vissim simulation) under different green time ratios.
+
+*   **Comparison of Delays.xlsx**: This file contains the statistical data from the Vissim simulation.
+
+*   **Vissim simulation.inpx**: This is the project file for the PTV Vissim 2025 software.
+
+*   **P3P4.py**: Figure 3 presents our "full phase utilization" model, and Figure 4 shows Chang's "maximum outflow rate" model.
+
+*   **two phase-Undersaturated-green ratio.py**: This is a simple example to demonstrate the algorithm implementation for Section 2, "Undersaturated signal cycle intervals under uniform traffic flow at a two-phase intersection."
+
+*   **two phase-Oversaturated-green ratio.py**: This is a simple example to demonstrate the algorithm implementation for Section 3, "Oversaturated signal cycle intervals under uniform traffic flow at two-phase intersections."
+
+*   **four phase-Undersaturated.py**: This is a simple example to demonstrate the algorithm implementation for Section 4, "Green Light Timing for Undersaturated Cycles at Four-phase Intersections."
+
+*   **four phase-Undersaturated-green ratio.py**: This is a simple example to demonstrate the algorithm implementation for Section 4, "Green Light Timing for Undersaturated Cycles at Four-phase Intersections."
+
+*   **four phase-Oversaturated-green ratio.py**: This is a simple example to demonstrate the algorithm implementation for Section 4, "Green Light Timing for Oversaturated Cycles at Four-phase Intersections."
